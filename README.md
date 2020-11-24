@@ -1,1 +1,1 @@
-# plinko2-index.html
+# plinko2/index.html
